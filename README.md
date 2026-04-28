@@ -6,3 +6,5 @@
 - 🚀 Current project: MathGame — making math fun through gaming
 
 - 📍 Based in Moscow
+
+https://tenor.com/ru/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124
