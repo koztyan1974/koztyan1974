@@ -6,6 +6,14 @@
 - 🚀 Current project: MathGame — making math fun through gaming
 
 - 📍 Based in Moscow
-<img src="https://tenor.com" 
-     alt="Ichigo vs Ulquiorra" 
-     style="width: 100%; max-width: 600px;">
+<div class="tenor-gif-embed" 
+     data-postid="3315939939941258124" 
+     data-share-method="host" 
+     data-aspect-ratio="1.77778" 
+     data-width="100%">
+  <a href="https://tenor.com">
+    Ichigo Vs Ulquiorra GIF
+  </a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
