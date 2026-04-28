@@ -7,4 +7,4 @@
 
 - 📍 Based in Moscow
 
-https://tenor.com/ru/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124
+<img width="445" height="377" src="https://tenor.com/ru/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124" />
