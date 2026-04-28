@@ -7,4 +7,4 @@
 
 - 📍 Based in Moscow
 
-<div class="tenor-gif-embed" data-postid="3315939939941258124" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124"><a href="https://tenor.com/search/ichigo+vs+ulquiorra-gifs"></a></div> <script type="text/javascript" async src="https://tenor.com/embed.js">
+<div class="tenor-gif-embed" data-postid="3315939939941258124" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124"><a href="https://tenor.com/search/ichigo+vs+ulquiorra-gifs"></a></div> <script type="text/javascript" async src="[https://tenor.com/embed.js](https://tenor.com/ru/view/ichigo-vs-ulquiorra-ulquiorra-cero-cero-oscuras-ulquiorra-cifer-gif-3315939939941258124)">
