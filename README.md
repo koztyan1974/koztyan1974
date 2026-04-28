@@ -1,4 +1,4 @@
-<img width="498" height="282" alt="image" src="https://github.com/user-attachments/assets/824dd304-6a98-4c91-b526-e9594cc733dd" />Всем привет
+Всем привет
 - 🎓 Student at Moscow International College of Digital Technologies
 
 - 💻 Unity & C# Developer | Indie Game Dev enthusiast
