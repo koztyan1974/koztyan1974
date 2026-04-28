@@ -6,4 +6,4 @@
 - 🚀 Current project: MathGame — making math fun through gaming
 
 - 📍 Based in Moscow
-![Ichigo vs Ulquiorra](https://tenor.com)
+![](https://tenor.com)
